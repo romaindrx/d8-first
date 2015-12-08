@@ -1,0 +1,5 @@
+name: Drupal 8 Demo module
+description: 'First module for Drupal 8'
+type: module
+core: 8.x
+package: Custom-romain
